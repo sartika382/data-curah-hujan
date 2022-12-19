@@ -1,0 +1,14 @@
+{
+    "januari": 300,
+    "februari": 250,
+    "maret": 320,
+    "april": 280,
+    "mei": 260,
+    "juni": 190,
+    "juli": 220,
+    "augustus": 210,
+    "september":240,
+    "oktober": 320,
+    "november":330,
+    "desember": 350
+}
